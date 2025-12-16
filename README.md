@@ -1,4 +1,4 @@
-1️⃣ AlexNet.py – Code Changes
+#1️⃣ AlexNet.py – Code Changes
 
 # Original Issues
 - Outdated Keras syntax
@@ -16,7 +16,7 @@
 - Correct model construction and summary
 - Architecture aligns with standard AlexNet
 
-2️⃣ Image-Classification CNN – Code Changes
+#2️⃣ Image-Classification CNN – Code Changes
 
 # Original Issues
 - Hard-coded dataset paths
@@ -35,7 +35,7 @@
 - Faster and cleaner training
 - Portable and exam-friendly code
 
-3️⃣ Deep Reinforcement Learning – Code Changes
+#3️⃣ Deep Reinforcement Learning – Code Changes
 
 # Original Issues
 - Incorrect random action selection
@@ -53,7 +53,7 @@
 - Correct optimal path discovery
 - Improved code clarity
 
-4️⃣ LSTM Time Series Forecasting – Code Changes
+#4️⃣ LSTM Time Series Forecasting – Code Changes
 
 # Original Issues
 - CSV loading errors
@@ -71,7 +71,7 @@
 - Accurate sequence prediction
 - Clean preprocessing pipeline
 
-5️⃣ RNN Text Generation – Code Changes
+#5️⃣ RNN Text Generation – Code Changes
 
 # Original Issues
 - Limited learning with SimpleRNN
@@ -89,7 +89,7 @@
 - More natural text generation
 - Industry-standard implementation
 
-6️⃣ Tic Tac Toe Reinforcement Learning – Code Changes
+#6️⃣ Tic Tac Toe Reinforcement Learning – Code Changes
 
 # Original Issues
 - Incorrect player initialization
