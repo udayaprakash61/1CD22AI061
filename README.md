@@ -107,6 +107,3 @@
 - Stable reinforcement learning
 - AI learns optimal strategies
 - Human vs AI gameplay works corrected
-Install dependencies:
-```bash
-pip install tensorflow tensorflow-datasets numpy matplotlib
